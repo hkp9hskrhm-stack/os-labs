@@ -1,0 +1,5 @@
+Guest user: existing, enabled
+Deny network logon: BUILTIN\Guests
+Backup right: BUILTIN\Administrators
+Shutdown without logon: denied for all
+Deny RDP access: BUILTIN\Users

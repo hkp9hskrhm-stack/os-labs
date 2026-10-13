@@ -1,0 +1,6 @@
+﻿Local group policy
+==================
+
+Minimum password length: 8
+Password complexity: On
+Maximum password age: 30
